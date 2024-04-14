@@ -33,7 +33,7 @@ const Navbar = () => {
       </ul>
       </div>
       <div className='md:hidden'>
-        <button >Click me </button>
+        <button  onClick={()=>(alert(hello))}>Click me </button>
       </div>
     </nav>
   )
