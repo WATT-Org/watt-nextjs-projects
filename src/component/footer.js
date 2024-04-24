@@ -35,7 +35,7 @@ const Footer = () => {
             <ul className='p-2 font-semibold  font-serif text-gray-800'>
 
               <Link href={'/project'}> <li className='mt-4'>Projects</li></Link>
-              <Link href={'/blogs'}>  <li className='mt-2'>Blogs</li></Link>
+              <Link href={'/blog'}>  <li className='mt-2'>Blogs</li></Link>
 
             </ul>
           </div>
