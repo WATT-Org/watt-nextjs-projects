@@ -115,7 +115,7 @@ export default function Home() {
                 when you arrive and appliances are turned off when not in use. Upgrade your home and take control with room
                 automation solutions.
               </p>
-              <Image src={'/RoomAutomation.png'} width={1100} height={1000} alt="Room Automation" className="p-2"></Image>
+              <Image src={'/RoomAutomation.png'} width={1080} height={566} alt="Room Automation" className="p-2"></Image>
             </div>
             <div className="bg-gray-600 flex flex-col items-center md:ml-2 mt-2 md:mt-16 rounded-lg p-8" data-aos="fade-left">
               <h1 className="text-xl font-bold text-gray-100  text-center">
@@ -128,7 +128,7 @@ export default function Home() {
                 when you arrive and appliances are turned off when not in use. Upgrade your home and take control with room
                 automation solutions.
               </p>
-              <Image src={'/Robotics.png'} width={520} height={400} alt="Room Automation" className="p-2"></Image>
+              <Image src={'/Robotics.png'} width={1080} height={566} alt="Room Automation" className="p-2"></Image>
             </div>
           </div>
           <div className="grid md:grid-cols-2 grid-cols-1 md:mx-24 mx:8 items-center p-4 ">
@@ -143,7 +143,7 @@ export default function Home() {
                 when you arrive and appliances are turned off when not in use. Upgrade your home and take control with room
                 automation solutions.
               </p>
-              <Image src={'/RoomAutomation.png'} width={1100} height={1000} alt="Room Automation" className="p-2"></Image>
+              <Image src={'/RoomAutomation.png'} width={1080} height={566} alt="Room Automation" className="p-2"></Image>
             </div>
             <div className="bg-gray-600 flex flex-col items-center md:ml-2 mt-2 md:mt-16 rounded-lg p-8" data-aos="fade-left">
               <h1 className="text-xl font-bold text-gray-100  text-center">
@@ -156,7 +156,7 @@ export default function Home() {
                 when you arrive and appliances are turned off when not in use. Upgrade your home and take control with room
                 automation solutions.
               </p>
-              <Image src={'/Robotics.png'} width={520} height={400} alt="Room Automation" className="p-2"></Image>
+              <Image src={'/Robotics.png'} width={1080} height={566} alt="Room Automation" className="p-2"></Image>
             </div>
           </div>
 
