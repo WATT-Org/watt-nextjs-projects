@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <nav className='flex flex-row items-center justify-between bg-white p-2  '>
       <div className='flex flex-col items-center mx-4  mt-2'>
-      <Link href={'/'}>  <Image src={'/WattLogo.png'} height={100} width={100} alt ={'watt-logo'} className='h-auto w-auto ' priority={true} />
+      <Link href={'/'}>  <Image src={'/images/wattlogo.png'} height={100} width={100} alt ={'watt-logo'} className='h-auto w-auto ' priority={true} />
       </Link>
       </div>
       <div className='hidden md:block '>
