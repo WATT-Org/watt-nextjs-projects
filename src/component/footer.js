@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className='flex flex-col md:flex-row w-full justify-between items-center md:p-8 p-0  bg-gray-200 gap-4 '>
       <div className=' flex flex-col w-1/3 justify-between items-center mt-8'>
-        <Image src="/WattLogo.png" width={100} height={100} alt='logo' className='h-auto w-auto'></Image>
+        <Image src="/images/wattlogo.png" width={100} height={100} alt='logo' className='h-auto w-auto'></Image>
         <p className='text-center md:mx-12 mx-0 font-serif text-xl text-gray-900 '>
           Our startup specializes in creating automation robots that simplify everyday tasks and make life easier.
         </p>
